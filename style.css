@@ -19,3 +19,10 @@ body {
   padding: 0 20px 20px 20px;
   border: 50px #DB3340;
 }
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #F7EAC8;
+  text-shadow: 3px 3px 1px black;
+}
