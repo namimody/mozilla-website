@@ -1,5 +1,21 @@
 p {
-	color: red;
+	color: #F7EAC8;
 	width: 500px;
-	border: 1 px solid black;
+	border: 1px solid black;
+}
+
+li, h1 {
+	color: #F7EAC8;
+}
+
+html {
+  background-color: #1FDA9A;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #28ABE3;
+  padding: 0 20px 20px 20px;
+  border: 50px #DB3340;
 }
